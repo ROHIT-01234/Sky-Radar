@@ -1,6 +1,18 @@
 # Sky Radar
 
-Sky Radar is a React-based weather application that provides current weather information, hourly temperature, and a 5-day weather forecast for your location or searched cities. It uses geolocation to fetch weather data and displays it in a clean, user-friendly interface.
+*Company*: CODETECH IT SOLUTIONS
+
+*Name*: Rohit Kumar
+
+*Intern ID*: CT12WC98
+
+*Domain*: Mern Stack Web Development
+
+*Duration*: 12 weeks
+
+*Mentor*: Neela Santosh
+
+Sky Radar is an innovative weather application built with React that seamlessly integrates geolocation features to provide users with accurate and timely weather information. The application boasts a user-friendly interface, offering essential details like temperature, humidity, wind speed, and overall conditions. Additionally, it presents a comprehensive hourly temperature chart and a 5-day weather forecast to help users plan ahead. The city search functionality enhances usability, while the responsive design caters to various devices, offering both light and dark themes for personal preference. Utilizing modern technologies such as React 18, Vite, and Tailwind CSS, along with powerful tools like React Query for data fetching and Sonner for notifications, Sky Radar ensures a smooth and visually appealing experience for all users.
 
 ![Sky Radar Screenshot](image.png)
 
